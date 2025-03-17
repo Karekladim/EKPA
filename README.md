@@ -1,2 +1,0 @@
-# EKPA
-###GITHUB EXAMPLE
